@@ -10,4 +10,3 @@ neutered  BOOLEAN,
 SPECIES VARCHAR(100)
 );
 
-alter table animals add column specie INT ;
