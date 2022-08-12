@@ -6,5 +6,7 @@ name VARCHAR(100),
 date_of_birth DATE,
 escape_attempts INT, 
 weight_kg DECIMAL,
-neutered  BOOLEAN
+neutered  BOOLEAN,
+SPECIES VARCHAR(100)
 );
+
